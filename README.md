@@ -3,7 +3,6 @@ Alex Noble & Benjamin Salevsen
 
 
 Before Running:
-- Extract noble_salvesen_P2.zip file
 - Ensure that all files are present:
 	1. "images" - Folder containing 5 subfolders, one for each letter
 		"a" - Subfolder containing 1000 images of "a" in ASL
@@ -11,16 +10,20 @@ Before Running:
 		"c" - Subfolder containing 1000 images of "c" in ASL
 		"d" - Subfolder containing 1000 images of "d" in ASL
 		"e" - Subfolder containing 1000 images of "e" in ASL
-	2. captureTrainData.py
+
+	IMAGE FOLDER TOO BIG TO PUT ON GITHUB, TRAINING CAN BE DONE OR WATCH THE DEMO HERE
+	========LINK COMING SOON=======	
+  
+	3. captureTrainData.py
 		Script that allows a user to capture images for the above subclasses/letters to be classified in real time.
-	3. trainModel.py
+	4. trainModel.py
 		Script that loads the training images, trains, and saves the model
-	4. classifyASL_RealTime
+	5. classifyASL_RealTime
 		Script that opens the camera and displays a box that is the region of interest, allowing a user to place their hand in the a, b, c, d, or e configuration and classifies what it sees in the window every second.
 
-	5. README (this document):
+	6. README (this document):
 		Outlines how to run the project files
-	6. Project2_Report.docx
+	7. Project2_Report.docx
 		Report on the project and methods used.
 
 - Ensure that Python 3.11.9 is installed.
