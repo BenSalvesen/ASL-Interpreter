@@ -1,4 +1,4 @@
-Project 2 - ASL Interpreter
+ASL Interpreter
 Alex Noble & Benjamin Salevsen
 
 
