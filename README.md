@@ -23,7 +23,7 @@ Before Running:
 
 	6. README (this document):
 		Outlines how to run the project files
-	7. Project2_Report.docx
+	7. ASLInterpreterReport.docx
 		Report on the project and methods used.
 
 - Ensure that Python 3.11.9 is installed.
